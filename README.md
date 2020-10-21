@@ -1,11 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-- Generate initial app
-- render data from api to ensure connectivity
-- create navbar
-- add login functionality and render protected data
--
--
+- [x] Generate initial app
+- [] render data from api to ensure connectivity
+- [] create navbar
+- [] add login functionality and render protected data
 
 ## Available Scripts
 

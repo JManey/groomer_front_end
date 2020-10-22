@@ -1,1 +1,1 @@
-export const apiURL = "http://localhost:3055/api";
+export const apiURL = "https://groomerapi.uc.r.appspot.com/api";
